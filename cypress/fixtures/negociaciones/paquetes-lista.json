@@ -1,0 +1,32 @@
+{
+  "Results": [
+    {
+      "IdPaquete": 551,
+      "IdEstado": 20,
+      "CodigoEstado": "PENDIENTE_POR_CONFIRMAR",
+      "EstadoGeneral": "Liquidación calculada. En espera de la aprobación o rechazo del usuario.",
+      "FechaCreacion": "2026-03-11T02:23:03.127",
+      "CantidadFacturas": 5,
+      "ValorFacialTotal": 4209000,
+      "IdFondeador": 31,
+      "IdEmpresaProveedor": 3,
+      "TotalLiquidadasExitosas": 3
+    },
+    {
+      "IdPaquete": 595,
+      "IdEstado": 20,
+      "CodigoEstado": "PENDIENTE_POR_CONFIRMAR",
+      "EstadoGeneral": "Liquidación calculada. En espera de la aprobación o rechazo del usuario.",
+      "FechaCreacion": "2026-03-26T18:48:37.987",
+      "CantidadFacturas": 2,
+      "ValorFacialTotal": 9000,
+      "IdFondeador": 1,
+      "IdEmpresaProveedor": 3,
+      "TotalLiquidadasExitosas": 1
+    }
+  ],
+  "TotalCount": 2,
+  "Page": 1,
+  "PageSize": 500,
+  "_status": 200
+}

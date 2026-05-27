@@ -1,0 +1,18 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Operación ejecutada con éxito",
+  "MessageResponseFront": "",
+  "BasePresentation": {
+    "NombreEmpresa": "FyM Technology SAS",
+    "NitEmpresa": "900306823",
+    "Usuario": "+573176699440",
+    "CorreoEmpresa": "test@fymtechnology.com",
+    "ActivoDesde": "2/4/2021 3:20:30 PM",
+    "IdFondeador": 31,
+    "Rol": "Emisor",
+    "ParametrosBasicos": {
+      "PermitirModificacionFechaDePago": true
+    }
+  },
+  "_status": 200
+}

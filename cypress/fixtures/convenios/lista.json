@@ -1,0 +1,21 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Operación ejecutada con éxito",
+  "MessageResponseFront": "",
+  "BasePresentation": { "NumeroRegistrosEntregados": 2, "NumeroPaginas": 1, "PaginaActual": 1 },
+  "BasePresentationList": [
+    {
+      "IdDetalleConvenio": 1196,
+      "RazonSocialFondeador": "BANCO COMERCIAL AV VILLAS S.A",
+      "NitFondeador": "860035827",
+      "RazonSocialPagador": "FUNDACION UNIVERSITARIA SALESIANA - UNISAL",
+      "NitPagador": "901181117",
+      "TipoConvenio": "CONFIRMING",
+      "TasaEA": 6.5,
+      "CupoMaximo": 500000000,
+      "CupoDisponible": 500000000,
+      "FechaCreacion": "01/01/2024"
+    }
+  ],
+  "_status": 200
+}

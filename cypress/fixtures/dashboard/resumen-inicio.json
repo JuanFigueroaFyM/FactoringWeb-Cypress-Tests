@@ -1,0 +1,16 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Operación ejecutada con éxito",
+  "MessageResponseFront": "",
+  "BasePresentationList": [
+    { "CodigoEstado": "SCSC", "EstadoNeg": "Sin convenio sin cupo",                   "IdEstado": 12, "Cantidad": 16,  "Total": 3185000000   },
+    { "CodigoEstado": "DNEG", "EstadoNeg": "Disponibles para negociar",               "IdEstado": 10, "Cantidad": 8,   "Total": 9736000      },
+    { "CodigoEstado": "DN47", "EstadoNeg": "Disponibles para negociar Con Cesion Ordinaria", "IdEstado": 16, "Cantidad": 6, "Total": 1545000 },
+    { "CodigoEstado": "PLIQ", "EstadoNeg": "Facturas en proceso de liquidación",      "IdEstado": 9,  "Cantidad": 4,   "Total": 122559000    },
+    { "CodigoEstado": "PCON", "EstadoNeg": "Facturas en proceso de consignación",     "IdEstado": 4,  "Cantidad": 1,   "Total": 9000         },
+    { "CodigoEstado": "NNEG", "EstadoNeg": "No Negociables",                          "IdEstado": -1, "Cantidad": 250, "Total": 1022294000   },
+    { "CodigoEstado": "REVI", "EstadoNeg": "Facturas candidatas por negociar",        "IdEstado": 11, "Cantidad": 17,  "Total": 4117000.96   },
+    { "CodigoEstado": "TOTAL","EstadoNeg": "Total",                                   "IdEstado": 0,  "Cantidad": 321, "Total": 4366287000.96}
+  ],
+  "_status": 200
+}

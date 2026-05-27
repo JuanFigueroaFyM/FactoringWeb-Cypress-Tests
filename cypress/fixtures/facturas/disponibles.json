@@ -1,0 +1,28 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Operación ejecutada con éxito",
+  "MessageResponseFront": "",
+  "BasePresentationList": [
+    {
+      "IdFactura": 3452771,
+      "Prefijo": "SETT",
+      "NumeroFactura": "466872",
+      "NombreCliente": "COLOMBIANA DE COMERCIO S.A.",
+      "NitCliente": "890900943",
+      "Total": 1700000,
+      "FechaExpedicion": "2/17/2026 12:00:00 AM",
+      "FechaVencimiento": "4/13/2026 12:00:00 AM"
+    },
+    {
+      "IdFactura": 3452772,
+      "Prefijo": "SETT",
+      "NumeroFactura": "466873",
+      "NombreCliente": "COLOMBIANA DE COMERCIO S.A.",
+      "NitCliente": "890900943",
+      "Total": 2000000,
+      "FechaExpedicion": "2/17/2026 12:00:00 AM",
+      "FechaVencimiento": "4/15/2026 12:00:00 AM"
+    }
+  ],
+  "_status": 200
+}

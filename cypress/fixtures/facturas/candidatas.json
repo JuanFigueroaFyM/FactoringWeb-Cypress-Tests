@@ -1,0 +1,22 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Operación ejecutada con éxito",
+  "MessageResponseFront": "",
+  "BasePresentationList": [
+    {
+      "NitEmisorFactura": "900306823",
+      "NombreEmisor": "FyM Technology SAS",
+      "NitPagadorFactura": "890900943",
+      "NombrePagador": "COLOMBIANA DE COMERCIO S.A.",
+      "NroFactura": "SETT4972109",
+      "ValorFactura": 1000000.24,
+      "ValorImpuestos": 0,
+      "ValorTotalFactura": 1000000.24,
+      "FechaEmision": "17/02/2026",
+      "FechaVencimiento": "20/10/2026",
+      "CupoDisponiblePagador": "7550000000.00",
+      "CupoDisponibleEmisorContraparte": "100000000.00"
+    }
+  ],
+  "_status": 200
+}

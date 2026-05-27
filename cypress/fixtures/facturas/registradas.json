@@ -1,0 +1,19 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Operación ejecutada con éxito",
+  "MessageResponseFront": "",
+  "BasePresentation": { "NumeroRegistros": 321 },
+  "BasePresentationList": [
+    {
+      "FechaRadicacion": "2026-02-09T12:40:55.75",
+      "CUFE": "95c64f5aed646e4d23fad581bfd893345b51f75bfe6043c09634a2c336823c4ae36d9b435e0cb18b8ba9b93743c1349d",
+      "NumeroFactura": "SETT602504",
+      "NombreCliente": "MAKRO SUPERMAYORISTA S.A.S",
+      "NitCliente": "900059238",
+      "FechaEmision": "2026-02-06T00:00:00",
+      "FechaVencimiento": "2026-03-30T00:00:00",
+      "ValorTotal": 1200000
+    }
+  ],
+  "_status": 200
+}

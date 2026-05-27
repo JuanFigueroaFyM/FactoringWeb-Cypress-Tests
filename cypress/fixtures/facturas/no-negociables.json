@@ -1,0 +1,25 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Facturas no negociables obtenidas correctamente",
+  "MessageResponseFront": "",
+  "BasePresentationList": [
+    {
+      "TotalFacturas": 380,
+      "TotalValor": 380000091.2,
+      "Facturas": [
+        {
+          "IdFactura": 3452768,
+          "Prefijo": "SETT",
+          "NumeroFactura": "4972109",
+          "FechaExpedicion": "2/17/2026 12:00:00 AM",
+          "ValorFactura": "1000000.24",
+          "NombrePagador": "COLOMBIANA DE COMERCIO S.A.",
+          "NitCliente": "890900943",
+          "NombreEmisor": "FyM Technology SAS",
+          "NombreFondeador": "BANCO COMERCIAL AV VILLAS S.A"
+        }
+      ]
+    }
+  ],
+  "_status": 200
+}

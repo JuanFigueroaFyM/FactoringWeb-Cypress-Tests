@@ -1,0 +1,11 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Operación ejecutada con éxito",
+  "MessageResponseFront": "",
+  "BasePresentationList": [
+    { "IdLiquidacion": 4205, "IdEstado": 2, "Estado": "Lista para negociar",        "TotalDocumentos": 1, "TotalDinero": 1300000, "FechaGeneracion": "29/01/2026" },
+    { "IdLiquidacion": 8159, "IdEstado": 1, "Estado": "En proceso de liquidacion", "TotalDocumentos": 1, "TotalDinero": 0,       "FechaGeneracion": "09/03/2026" },
+    { "IdLiquidacion": 8192, "IdEstado": 1, "Estado": "En proceso de liquidacion", "TotalDocumentos": 1, "TotalDinero": 0,       "FechaGeneracion": "10/03/2026" }
+  ],
+  "_status": 200
+}

@@ -1,0 +1,16 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Operación ejecutada con éxito",
+  "MessageResponseFront": "",
+  "BasePresentation": {
+    "NumeroFactura": "SETT467040",
+    "CUFE": "e9a27f483b14b8466a19cb20c16dd03cc1542e3b248eda580046be8bda9dce2d54572db436cc35c5f55367a04d04c282",
+    "FechaVencimiento": "2026-05-08T00:00:00",
+    "ValorTotal": 1200000,
+    "NitEmisor": "900306823",
+    "NombreEmisor": "FyM Technology SAS",
+    "NitPagador": "900155107",
+    "NombrePagador": "CENCOSUD COLOMBIA S.A."
+  },
+  "_status": 200
+}

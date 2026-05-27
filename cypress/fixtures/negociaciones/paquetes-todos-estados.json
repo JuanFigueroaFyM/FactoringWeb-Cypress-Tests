@@ -1,0 +1,60 @@
+{
+  "Results": [
+    {
+      "IdPaquete": 551,
+      "IdEstado": 20,
+      "CodigoEstado": "PENDIENTE_POR_CONFIRMAR",
+      "EstadoGeneral": "Liquidación calculada. En espera de aprobación.",
+      "FechaCreacion": "2026-03-11T02:23:03.127",
+      "CantidadFacturas": 5,
+      "ValorFacialTotal": 4209000,
+      "IdFondeador": 31,
+      "NombreFondeador": "FyM Capital",
+      "IdEmpresaProveedor": 3,
+      "TotalLiquidadasExitosas": 3
+    },
+    {
+      "IdPaquete": 552,
+      "IdEstado": 10,
+      "CodigoEstado": "EN_PROCESO_LIQUIDACION",
+      "EstadoGeneral": "Paquete en proceso de liquidación.",
+      "FechaCreacion": "2026-03-20T10:00:00.000",
+      "CantidadFacturas": 3,
+      "ValorFacialTotal": 2500000,
+      "IdFondeador": 31,
+      "NombreFondeador": "FyM Capital",
+      "IdEmpresaProveedor": 3,
+      "TotalLiquidadasExitosas": 0
+    },
+    {
+      "IdPaquete": 553,
+      "IdEstado": 30,
+      "CodigoEstado": "EN_NEGOCIACION",
+      "EstadoGeneral": "Paquete en proceso de negociación.",
+      "FechaCreacion": "2026-03-18T08:30:00.000",
+      "CantidadFacturas": 4,
+      "ValorFacialTotal": 3800000,
+      "IdFondeador": 31,
+      "NombreFondeador": "FyM Capital",
+      "IdEmpresaProveedor": 3,
+      "TotalLiquidadasExitosas": 4
+    },
+    {
+      "IdPaquete": 554,
+      "IdEstado": 40,
+      "CodigoEstado": "COMPLETADO",
+      "EstadoGeneral": "Negociación completada exitosamente.",
+      "FechaCreacion": "2026-03-10T14:00:00.000",
+      "CantidadFacturas": 2,
+      "ValorFacialTotal": 1800000,
+      "IdFondeador": 31,
+      "NombreFondeador": "FyM Capital",
+      "IdEmpresaProveedor": 3,
+      "TotalLiquidadasExitosas": 2
+    }
+  ],
+  "TotalCount": 4,
+  "Page": 1,
+  "PageSize": 500,
+  "_status": 200
+}

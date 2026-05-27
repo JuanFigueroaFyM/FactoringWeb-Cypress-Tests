@@ -1,0 +1,7 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Iis1NzMxNzY2OTk0NDAiLCJOaXRFbXByZXNhIjoiOTAwMzA2ODIzIiwiSWRFbXByZXNhIjoiMyIsInJvbGUiOiJFbWlzb3IiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3VzZXJkYXRhIjoiKzU3MzE3NjY5OTQ0MCIsIklkRm9uZGVhZG9yIjoiMzEiLCJuYmYiOjE3MDAwMDAwMDAsImV4cCI6OTk5OTk5OTk5OSwiaWF0IjoxNzAwMDAwMDAwLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjQ5MjIwIiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo0OTIyMCJ9.fake_signature_for_testing",
+  "MessageResponseFront": "",
+  "BasePresentation": null,
+  "_status": 200
+}

@@ -1,0 +1,42 @@
+{
+  "Results": [
+    {
+      "IdNegociacion": 301,
+      "IdCfd": 3452771,
+      "NumeroFactura": "SETT466872",
+      "RazonSocialPagador": "COLOMBIANA DE COMERCIO S.A.",
+      "NitPagador": "890900943",
+      "IdEstadoNegociacion": 220,
+      "EstadoNegociacion": "COMPLETADO_EXITOSO",
+      "MensajeErrorNegociacion": null,
+      "ValorFacial": 1700000,
+      "ValorAceptado": 1555000,
+      "ValorGiro": 1542430.6,
+      "ValorIva": 0,
+      "ValorRetenciones": 0,
+      "ValorDescuento": 12569.4,
+      "DiasNegociados": 28
+    },
+    {
+      "IdNegociacion": 302,
+      "IdCfd": 3452772,
+      "NumeroFactura": "SETT466873",
+      "RazonSocialPagador": "COLOMBIANA DE COMERCIO S.A.",
+      "NitPagador": "890900943",
+      "IdEstadoNegociacion": 230,
+      "EstadoNegociacion": "FALLIDO",
+      "MensajeErrorNegociacion": "Factura ya negociada previamente",
+      "ValorFacial": 2000000,
+      "ValorAceptado": 1800000,
+      "ValorGiro": null,
+      "ValorIva": 0,
+      "ValorRetenciones": 0,
+      "ValorDescuento": null,
+      "DiasNegociados": null
+    }
+  ],
+  "TotalCount": 2,
+  "Page": 1,
+  "PageSize": 10,
+  "_status": 200
+}

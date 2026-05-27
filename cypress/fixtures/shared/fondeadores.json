@@ -1,0 +1,26 @@
+{
+  "CodResponse": 1,
+  "MessageResponse": "Operación ejecutada con éxito",
+  "MessageResponseFront": "",
+  "BasePresentationList": [
+    {
+      "IdFondeador": 45,
+      "NombreFondeador": "ACCIONA S.A.S.",
+      "IdEmpresa": 54810,
+      "Logo": ""
+    },
+    {
+      "IdFondeador": 1,
+      "NombreFondeador": "BANCO COMERCIAL AV VILLAS S.A",
+      "IdEmpresa": 1331,
+      "Logo": "https://storage.googleapis.com/img-searcher-ath/images/avvillas.svg"
+    },
+    {
+      "IdFondeador": 31,
+      "NombreFondeador": "BANCO COMERCIAL AV VILLAS S.A",
+      "IdEmpresa": 1331,
+      "Logo": "https://storage.googleapis.com/img-searcher-ath/images/avvillas.svg"
+    }
+  ],
+  "_status": 200
+}

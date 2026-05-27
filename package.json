@@ -9,6 +9,7 @@
     "cy:run:dev": "cypress run --config baseUrl=https://black-forest-088e4e41e.1.azurestaticapps.net --record"
   },
   "devDependencies": {
-    "cypress": "^15.13.0"
+    "cypress": "^15.13.0",
+    "typescript": "^5.8.3"
   }
 }

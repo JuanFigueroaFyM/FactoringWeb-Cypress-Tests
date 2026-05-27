@@ -32,7 +32,7 @@ npm run cy:run    # ejecuta todas las pruebas en modo headless
 | Entorno | Comando |
 |---|---|
 | Desarrollo (Azure Static) | `npm run cy:run:dev` |
-| QA / Testing | `npm run cy:run:test` |
+| QA / Testing | `npm run cy:run` |
 
 > En entornos remotos las pruebas usan intercepts para mockear la API, por lo que
 > no se realizan llamadas reales al backend.

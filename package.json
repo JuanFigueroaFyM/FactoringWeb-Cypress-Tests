@@ -4,12 +4,12 @@
   "private": true,
   "description": "Pruebas E2E de eBill Factoring",
   "scripts": {
-  "cy:open": "cypress open --config baseUrl=https://ebillswtestfactoringweb.facturaenlinea.co",
-  "cy:run": "cypress run --config baseUrl=https://ebillswtestfactoringweb.facturaenlinea.co --record",
-  "cy:open:dev": "cypress open --config baseUrl=https://black-forest-088e4e41e.1.azurestaticapps.net",
-  "cy:run:dev": "cypress run --config baseUrl=https://black-forest-088e4e41e.1.azurestaticapps.net --record",
-  "cy:run:record": "cypress run --record"
-}
+    "cy:open": "cypress open --config baseUrl=https://ebillswtestfactoringweb.facturaenlinea.co",
+    "cy:run": "cypress run --config baseUrl=https://ebillswtestfactoringweb.facturaenlinea.co --record",
+    "cy:open:dev": "cypress open --config baseUrl=https://black-forest-088e4e41e.1.azurestaticapps.net",
+    "cy:run:dev": "cypress run --config baseUrl=https://black-forest-088e4e41e.1.azurestaticapps.net --record",
+    "cy:run:record": "cypress run --record"
+  },
   "devDependencies": {
     "cypress": "^15.13.0",
     "typescript": "^5.8.3"
